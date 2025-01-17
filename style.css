@@ -62,7 +62,7 @@
   margin: 0 auto;
 }
 .offer-details {
-  margin-top: 120px;
+  margin-top: 60px;
   padding: 40px;
   /* width: 700px;
   height: 800px; */
@@ -147,6 +147,10 @@
   width: 90px;
   margin-left: 32px;
 }
+.party-btn:hover{
+  cursor: pointer;
+  opacity: 0.9;
+}
 
 /* location section start  */
 .location {
@@ -178,6 +182,10 @@
   font-size: 20px;
   font-weight: 700;
   line-height: 24px;
+}
+.location-btn:hover{
+  cursor: pointer;
+  opacity: 0.7;
 }
 
 /* coming soon section start  */
@@ -351,6 +359,10 @@
 
   width: 1300px;
 }
+.cards-childs img:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
 .cards-childs {
   width: 1300px;
 
@@ -428,6 +440,11 @@ input[type="button"]{
   color: #ffffff;
   border: none;
 
+}
+input[type="button"]:hover{
+  cursor: pointer;
+  background-color: green;
+  color: #d19e9e;
 }
 
 /* footer section start  */
