@@ -447,6 +447,10 @@ input[type="button"]:hover{
   color: #d19e9e;
 }
 
+.unsubscribe:hover{
+  cursor: pointer;
+  color: #ff0000;
+}
 /* footer section start  */
 footer{
   background-color: rgb(7, 2, 17);
